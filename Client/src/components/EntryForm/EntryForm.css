@@ -1,0 +1,7 @@
+.entry-form-background {
+  background-image: url(/src/assets/entry2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 60vh;
+  border-radius: 10px !important;
+}

@@ -1,0 +1,16 @@
+.entry-card {
+  border: 3px solid #fb8500;
+  border-radius: 10px !important;
+  background-image: url(/src/assets/weather.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #ff5400 !important;
+}
+
+.entry-date {
+  text-align: center;
+}
+
+.entry-media-img {
+    border-radius: 10px;
+}
